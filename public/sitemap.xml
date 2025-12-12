@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/darcle/contact/</loc>
+    <lastmod>2025-12-12T11:44:21-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/darcle/activities/</loc>
+    <lastmod>2025-12-12T11:43:51-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/darcle/people/</loc>
+    <lastmod>2025-12-12T11:43:42-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/darcle/</loc>
+    <lastmod>2025-12-12T11:43:32-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/darcle/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/darcle/tags/</loc>
+  </url>
+</urlset>

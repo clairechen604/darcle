@@ -1,0 +1,29 @@
+baseURL = 'https://clairechen604.github.io/darcle/'
+languageCode = 'en-us'
+title = 'DARCLE'
+theme = 'PaperMod'
+
+[menu]
+
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+
+    [[menu.main]]
+        name = "People"
+        url = "/people/"
+        weight = 2
+
+    [[menu.main]]
+        name = "Activities"
+        url = "/activities/"
+        weight = 3
+
+    [[menu.main]]
+        name = "Contact"
+        url = "/contact/"
+        weight = 4
+
+[params]
+    dateFormat = " "

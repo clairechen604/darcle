@@ -27,7 +27,21 @@
       <link>http://localhost:1313/darcle/people/</link>
       <pubDate>Fri, 12 Dec 2025 11:43:42 -0600</pubDate>
       <guid>http://localhost:1313/darcle/people/</guid>
-      <description></description>
+      <description>&lt;p&gt;DARCLE is an international group of scholars and interested researchers interested in naturalistic audio recordings, child and family speech, language development, computational analysis of spoken language, and related topics. Membership is open to all. To be a member and be listed here, please write to the DARCLE president (above) giving your name, affiliation, contact information, and details you would like posted.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;darcle-board&#34;&gt;DARCLE Board&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;President: FirstName LastName&lt;/li&gt;
+&lt;li&gt;Secretary: FirstName LastName&lt;/li&gt;
+&lt;li&gt;etc etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;consultant&#34;&gt;Consultant&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;past-service-positions-current-senior-board-members&#34;&gt;Past service positions (current Senior Board Members)&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;darcle-members&#34;&gt;DARCLE members&lt;/h3&gt;
+&lt;hr&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>DARCLE</title>
-    <link>http://localhost:1313/darcle/</link>
-    <description>Recent content on DARCLE</description>
+    <title>People on DARCLE</title>
+    <link>http://localhost:1313/darcle/people/</link>
+    <description>Recent content in People on DARCLE</description>
     <generator>Hugo -- 0.150.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Dec 2025 11:44:21 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/darcle/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Dec 2025 11:43:42 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/darcle/people/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DARCLE Board</title>
       <link>http://localhost:1313/darcle/people/darcleboard/</link>
@@ -20,13 +20,6 @@
 &lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Ongoing Projects</title>
-      <link>http://localhost:1313/darcle/activities/projects/</link>
-      <pubDate>Fri, 12 Dec 2025 11:43:42 -0600</pubDate>
-      <guid>http://localhost:1313/darcle/activities/projects/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Consultant</title>
       <link>http://localhost:1313/darcle/people/consultant/</link>
       <pubDate>Fri, 12 Dec 2025 11:43:42 -0600</pubDate>
@@ -34,13 +27,6 @@
       <description>&lt;ul&gt;
 &lt;li&gt;FirstName LastName&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Past Events</title>
-      <link>http://localhost:1313/darcle/activities/archive/</link>
-      <pubDate>Fri, 12 Dec 2025 11:43:42 -0600</pubDate>
-      <guid>http://localhost:1313/darcle/activities/archive/</guid>
-      <description></description>
     </item>
     <item>
       <title>Past service positions (current Senior Board Members)</title>
@@ -59,13 +45,6 @@
       <description>&lt;ul&gt;
 &lt;li&gt;FirstName LastName&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/darcle/contact/</link>
-      <pubDate>Fri, 12 Dec 2025 11:44:21 -0600</pubDate>
-      <guid>http://localhost:1313/darcle/contact/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

@@ -26,4 +26,6 @@ theme = 'PaperMod'
         weight = 4
 
 [params]
+    mainSections = []
     dateFormat = " "
+    ShowBreadCrumbs = true
